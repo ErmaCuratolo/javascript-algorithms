@@ -1,25 +1,16 @@
-# Graph
+# 图
 
-En informatique, un **graphe** est une structure de
-données abstraite qui implémente les concepts de
-graphe orienté et de graphe non-orienté venant
-des mathématiques, plus précisément du domaine de
-la théorie des graphes.
+在计算机科学中，**图**是一种抽象的数据结构，实现了来自数学的有向图和无向图的概念，更具体地说，是图论领域的概念。
 
-La structure de données abstraite de graphe consiste
-en un ensemble fini, éventuellement mutable de sommets
-ou nœuds ou points, avec un ensemble de paires ordonnées
-ou non de tels éléments. Ces paires sont des arêtes, arcs
-non orientés, ou lignes pour un graphe non orienté, et
-flèches, arêtes orientées , arcs, ou lignes orientées
-dans le cas orienté. Les sommets peuvent faire partie
-de la structure, ou être des entités extérieures,
-représentées par des entiers ou des références.
+
+图的抽象数据结构包括一组有限的、可能是可变的顶点或节点或点，以及这些元素的有序或无序对的集合。这些对是边、非定向弧或线段，对于非定向图，是线段，对于定向图，是箭头、定向边、弧或线段。顶点可以是结构的一部分，也可以是外部实体，由整数或引用表示。
+
 
 ![Graph](./images/graph.jpeg)
 
-*Made with [okso.app](https://okso.app)*
+*使用 [okso.app](https://okso.app) 制作*
 
-## References
+## 参考资料
 
-- [Wikipedia](https://fr.wikipedia.org/wiki/Graphe_(type_abstrait))
+- [维基百科](https://fr.wikipedia.org/wiki/Graphe_(type_abstrait))
+
